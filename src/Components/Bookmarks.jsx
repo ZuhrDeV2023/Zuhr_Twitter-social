@@ -12,7 +12,7 @@ function Bookmarks() {
             <div className="px-4 py-5 sm:flex sm:items-center sm:justify-between">
               <div className="text-sm font-medium text-gray-900 truncate">
                 <a href="#" className="hover:underline">
-                  Title of bookmark
+                  Title of bookmarks
                 </a>
               </div>
               <div className="mt-4 sm:mt-0 sm:ml-4">
