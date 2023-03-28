@@ -1,6 +1,5 @@
 import React from "react";
 import userPro from '../assets/photo_2022-10-22_09-33-42.jpg'
-import { PopulerIcon } from '../assets/İcons' 
 
 const Profile = () => {
   return (

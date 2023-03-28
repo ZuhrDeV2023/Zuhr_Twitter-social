@@ -14,7 +14,7 @@ const Login = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="h-screen flex bg-gray-bg">
+    <form onSubmit={handleSubmit} className="flex bg-gray-bg">
       <div className="w-full max-w-3xl m-auto bg-white rounded-lg border border-primaryBorder shadow-default py-10 px-16">
         <div>
           <img src={Twitter} alt="" className='w-14 mb-4'/>

@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Messages() {
+function Message() {
   return (
     <div>
-      <h1>Messages</h1>
+        <h1>Hello mans</h1>
     </div>
   )
 }
 
-export default Messages
+export default Message

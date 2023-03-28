@@ -1,4 +1,5 @@
 import React from 'react'
+// import İcon from '../assets/İcons'
 
 const SideLink = ({ name, İcon }) => {
   return (
