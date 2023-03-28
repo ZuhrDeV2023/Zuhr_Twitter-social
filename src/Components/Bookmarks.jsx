@@ -2,7 +2,7 @@ import { AiOutlineCloseCircle } from 'react-icons/ai';
 
 function Bookmarks() {
   return (
-    <div className="min-h-screen bg-gray-100 container">
+    <div className=" bg-gray-100 container">
       {/* <div className="mx-auto pt-12 px-4 sm:px-6 lg:px-8"> */}
       <header className=" sticky top-0 flex justify-between items-center p-4 border-b border-gray-300 bg-white">
         <span className="font-bold text-xl text-gray-900">Home</span>

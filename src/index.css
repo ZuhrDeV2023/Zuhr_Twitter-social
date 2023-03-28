@@ -3,12 +3,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+ 
 @layer utilities {
   .w-1920 {
     max-width: 1921px;
   }
-}
+} 
 
 .App {
     text-align: center;
@@ -17,7 +17,7 @@
   }
   
   .App-logo {
-    height: 40vmin;
+    /* height: 40vmin; */
     pointer-events: none;
   }
   
@@ -28,8 +28,8 @@
   }
   
   .App-header {
-    background-color: #282c34;
-    min-height: 100vh;
+    /* background-color: #282c34; */
+    /* min-height: 100vh; */
     display: flex;
     flex-direction: column;
     align-items: center;

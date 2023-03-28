@@ -4,7 +4,7 @@ import { UserIcon } from '../assets/İcons'
 
 const UserShare = () => {
   return (
-    <div className="h-screen flex flex-col justify-between px-2 content-center">
+    <div className="flex flex-col justify-between px-2 content-center">
       <div className="px-10 pl-40 mt-10 flex content-center ">
         <img
           src={userİmg}

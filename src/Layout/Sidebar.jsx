@@ -52,7 +52,7 @@ const sideLinks = [
 
 function Sidebar () {
   return (
-    <div className="h-screen sticky top-0 flex flex-col justify-between px-2">
+    <div className="sticky top-0 flex flex-col justify-between px-2">
       <div className='px-10 pl-40 pt-5'>
         <img src={twitterLogo} alt="Twitter Logo" className="w-[40px] h-[33px]"></img>
         <nav className="mb-5">
